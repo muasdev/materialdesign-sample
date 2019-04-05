@@ -4,4 +4,5 @@
     <string name="password">password</string>
     <string name="cancel">cancel</string>
     <string name="next">NEXT</string>
+    <string name="demo_card_text">Halo</string>
 </resources>
